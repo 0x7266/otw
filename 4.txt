@@ -1,0 +1,2 @@
+cat $(file -i inhere/* | grep "charset=us-ascii" | awk -F: '{print $1}')
+lrIWWI6bB37kxfiCQZqUdOIYfr6eEeqR
