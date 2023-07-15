@@ -1,0 +1,2 @@
+cat $(find inhere/ -readable -size 1033c -not -executable)
+P4L4vucdmLnm8I7Vl7jG1ApGSfjYKqJU
